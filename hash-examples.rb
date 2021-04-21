@@ -6,3 +6,10 @@ car {
   'doors' => 4
   'uesd' => true
 }
+
+animal {
+  'type' = 'dog'
+  'quadruped' = true
+  'biped' = false
+  'color' = 'white'
+}
