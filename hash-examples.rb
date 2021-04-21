@@ -8,8 +8,8 @@ car {
 }
 
 animal {
-  'type' = 'dog'
-  'quadruped' = true
-  'biped' = false
-  'color' = 'white'
+  'type' => 'dog'
+  'quadruped' => true
+  'biped' => false
+  'color' => 'white'
 }
